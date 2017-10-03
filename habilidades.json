@@ -1,0 +1,34 @@
+{
+    "habilidades": [
+        {
+            "nombre": "C", 
+            "puntaje":  3  ,
+            "src": "http://it-world.com.mx/logos/logo_c.png"        
+        },
+        {
+            "nombre": "C++" ,
+            "puntaje": 4         ,
+            "src": "http://imagespng.com/Data/DownloadLogo/C-Free-Download-PNG.png"   
+        },
+        {
+            "nombre": "JAVA" ,
+            "puntaje": 5 ,
+            "src": "http://pluspng.com/img-png/java-png-java-logo-some-logos-are-clickable-and-available-in-large-sizes-some-of-them-are-transparent-png-click-the-logo-and-download-it-4321.png"
+        }
+    ] ,
+    "educacion": [
+        {
+            "instituto": "Colegio Aleman Federico Froebel", 
+            "tiempo": "2000-2014"  ,
+            "lugar": "Cochabamba, Bolivia" , 
+            "src": "http://www.colegio-humboldt.edu.pe/hs_2013/ESP/02_delegaciones/Fotos/logos/caff.png"        
+        },
+        {
+            "instituto": "Universidad Catolica Boliviana", 
+            "tiempo": "2015-?"  ,
+            "lugar": "Cochabamba, Bolivia" , 
+            "src": "https://reader001.docslide.net/reader001/html5/20170904/54619509b1af9fb32f8b47af/bg1.png"        
+        }
+    ]
+ }
+ 

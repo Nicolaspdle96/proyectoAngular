@@ -10,6 +10,8 @@ import { Comp2Component } from './components/comp2/comp2.component';
 import { Comp3Component } from './components/comp3/comp3.component';
 import { UserListComponent } from './user-list/user-list.component';
 import { Comp4Component } from './components/comp4/comp4.component';
+import { HttpModule } from '@angular/http';
+import { UserList2Component } from './user-list2/user-list2.component';
 
 @NgModule({
   declarations: [
@@ -20,11 +22,13 @@ import { Comp4Component } from './components/comp4/comp4.component';
     Comp2Component,
     Comp3Component,
     UserListComponent,
-    Comp4Component
+    Comp4Component,
+    UserList2Component
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpModule
   ],
   providers: [],
   bootstrap: [AppComponent]

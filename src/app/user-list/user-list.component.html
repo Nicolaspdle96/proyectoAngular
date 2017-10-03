@@ -1,3 +1,10 @@
 <ul>
-  <li *ngFor = "let ability of abilities"> {{ability}}</li>
+  <li *ngFor = "let ability of habilidades">
+    <div class="col-md-2">
+        {{ability.nombre}}
+    </div>
+    <div class="col-md-2">
+        {{ability.puntaje}}
+    </div>
+    <img src = {{ability.src}} width="75" height="75">
 </ul>
