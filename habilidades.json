@@ -29,6 +29,14 @@
             "lugar": "Cochabamba, Bolivia" , 
             "src": "https://reader001.docslide.net/reader001/html5/20170904/54619509b1af9fb32f8b47af/bg1.png"        
         }
+    ],
+    "perfil": [
+        {
+            "nombre": "Nicolas Ponce de Leon Espinoza", 
+            "edad": "20"  ,
+            "localizacion": "Cochabamba, Bolivia" , 
+            "carrera": "Ingeniera de sistemas"        
+        }
     ]
  }
  

@@ -12,6 +12,7 @@ import { UserListComponent } from './user-list/user-list.component';
 import { Comp4Component } from './components/comp4/comp4.component';
 import { HttpModule } from '@angular/http';
 import { UserList2Component } from './user-list2/user-list2.component';
+import { UserList3Component } from './user-list3/user-list3.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { UserList2Component } from './user-list2/user-list2.component';
     Comp3Component,
     UserListComponent,
     Comp4Component,
-    UserList2Component
+    UserList2Component,
+    UserList3Component
   ],
   imports: [
     BrowserModule,
